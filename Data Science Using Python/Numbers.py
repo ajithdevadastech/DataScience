@@ -86,7 +86,7 @@ print('hexadecimal %s:'%hex(test))
 
 # Exponents and powers
 print('2 to 5th power: %d'%2**5)
-print('three times ten to the fifth power: %d'%3e5) # Python supports E-notation(is lso queal to 3*pow(10,5))
+print('three times ten to the fifth power: %d'%3e5) # Python supports E-notation(is also queal to 3*pow(10,5))
 
 # While playing with numbers she noticed something unsual
 print(1.1+2.2==3.3)
