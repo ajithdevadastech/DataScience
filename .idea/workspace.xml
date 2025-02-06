@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76655c2-9db4-4543-9bbe-590a39d20e7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Science Using Python/File Handling and Operations/FileHandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Array Computation/ArrayCreationandLogicFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Array Computation/File Handling in Numpy/FileHandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Array Computation/Matrix and Aggregate functions/MatrixProductandAggregateFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Science Using Python/File Handling and Operations/ClassAndFunctions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science Using Python/For Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Science Using Python/For Loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +37,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ArrayCreationandLogicFunctions.executor": "Run",
+    "Python.ClassAndFunctions.executor": "Run",
     "Python.Conditionals.executor": "Run",
     "Python.Dictionary.executor": "Run",
+    "Python.FileHandling (1).executor": "Run",
     "Python.FileHandling.executor": "Run",
     "Python.For Loop.executor": "Run",
     "Python.Lists.executor": "Run",
+    "Python.MatrixProductandAggregateFunctions (1).executor": "Run",
+    "Python.MatrixProductandAggregateFunctions.executor": "Run",
     "Python.Numbers.executor": "Run",
     "Python.Sets.executor": "Run",
     "Python.Strings.executor": "Run",
@@ -49,8 +56,15 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.FileHandling">
-    <configuration name="Conditionals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Array Computation" />
+      <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python" />
+      <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\File Handling and Operations\Matrix and Aggregate functions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.FileHandling (1)">
+    <configuration name="ArrayCreationandLogicFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Array Computation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Conditionals.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Array Computation/ArrayCreationandLogicFunctions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FileHandling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ClassAndFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/File Handling and Operations/FileHandling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/File Handling and Operations/ClassAndFunctions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="For Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FileHandling (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Array Computation/File Handling in Numpy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/For Loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Array Computation/File Handling in Numpy/FileHandling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MatrixProductandAggregateFunctions (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/File Handling and Operations/Matrix and Aggregate functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/File Handling and Operations/Matrix and Aggregate functions/MatrixProductandAggregateFunctions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MatrixProductandAggregateFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/File Handling and Operations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Strings.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\File Handling and Operations\Matrix and Aggregate functions\MatrixProductandAggregateFunctions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.FileHandling" />
-        <item itemvalue="Python.For Loop" />
-        <item itemvalue="Python.Conditionals" />
-        <item itemvalue="Python.Strings" />
-        <item itemvalue="Python.Numbers" />
+        <item itemvalue="Python.FileHandling (1)" />
+        <item itemvalue="Python.ArrayCreationandLogicFunctions" />
+        <item itemvalue="Python.MatrixProductandAggregateFunctions (1)" />
+        <item itemvalue="Python.MatrixProductandAggregateFunctions" />
+        <item itemvalue="Python.ClassAndFunctions" />
       </list>
     </recent_temporary>
   </component>
