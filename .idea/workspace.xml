@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76655c2-9db4-4543-9bbe-590a39d20e7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Array Computation/ArrayCreationandLogicFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Array Computation/File Handling in Numpy/FileHandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Array Computation/Matrix and Aggregate functions/MatrixProductandAggregateFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Science Using Python/File Handling and Operations/ClassAndFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/SeriesFunctionality.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,36 +23,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2sYBeNk8YqXGCsx3rAbQ1vk4pXN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ArrayCreationandLogicFunctions.executor": "Run",
-    "Python.ClassAndFunctions.executor": "Run",
-    "Python.Conditionals.executor": "Run",
-    "Python.Dictionary.executor": "Run",
-    "Python.FileHandling (1).executor": "Run",
-    "Python.FileHandling.executor": "Run",
-    "Python.For Loop.executor": "Run",
-    "Python.Lists.executor": "Run",
-    "Python.MatrixProductandAggregateFunctions (1).executor": "Run",
-    "Python.MatrixProductandAggregateFunctions.executor": "Run",
-    "Python.Numbers.executor": "Run",
-    "Python.Sets.executor": "Run",
-    "Python.Strings.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ArrayCreationandLogicFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ClassAndFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Conditionals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileHandling (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.For Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MatrixProductandAggregateFunctions (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.MatrixProductandAggregateFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SeriesFunctionality.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Array Computation" />
@@ -63,7 +61,7 @@
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\File Handling and Operations\Matrix and Aggregate functions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.FileHandling (1)">
+  <component name="RunManager" selected="Python.SeriesFunctionality">
     <configuration name="ArrayCreationandLogicFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
@@ -78,28 +76,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Array Computation/ArrayCreationandLogicFunctions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ClassAndFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataScience" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/File Handling and Operations" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/File Handling and Operations/ClassAndFunctions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,6 +150,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="SeriesFunctionality" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScience" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Data Manipulation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/SeriesFunctionality.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
@@ -198,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SeriesFunctionality" />
         <item itemvalue="Python.FileHandling (1)" />
         <item itemvalue="Python.ArrayCreationandLogicFunctions" />
         <item itemvalue="Python.MatrixProductandAggregateFunctions (1)" />
         <item itemvalue="Python.MatrixProductandAggregateFunctions" />
-        <item itemvalue="Python.ClassAndFunctions" />
       </list>
     </recent_temporary>
   </component>
