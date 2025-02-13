@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76655c2-9db4-4543-9bbe-590a39d20e7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/Dataframe/Dataframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/Cleaning Data/CleaningData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/Combining Data/CombineData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Visualizing Data/Customizing Visualizations/CustomizingVisualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Visualizing Data/Plotting Charts/PlottingCharts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Visualizing Data/SubPlots and Grids/subplotsandgrids.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +40,10 @@
   "keyToString": {
     "Python.ArrayCreationandLogicFunctions.executor": "Run",
     "Python.ClassAndFunctions.executor": "Run",
+    "Python.CleaningData.executor": "Run",
+    "Python.CombineData.executor": "Run",
     "Python.Conditionals.executor": "Run",
+    "Python.CustomizingVisualization.executor": "Run",
     "Python.Dataframe.executor": "Run",
     "Python.Dictionary.executor": "Run",
     "Python.FileHandling (1).executor": "Run",
@@ -46,10 +53,12 @@
     "Python.MatrixProductandAggregateFunctions (1).executor": "Run",
     "Python.MatrixProductandAggregateFunctions.executor": "Run",
     "Python.Numbers.executor": "Run",
+    "Python.PlottingCharts.executor": "Run",
     "Python.SeriesFunctionality.executor": "Run",
     "Python.Sets.executor": "Run",
     "Python.Strings.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.subplotsandgrids.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -57,13 +66,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Visualizing Data\Customizing Visualizations" />
+      <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Visualizing Data\Plotting Charts" />
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Array Computation" />
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python" />
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\File Handling and Operations\Matrix and Aggregate functions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Dataframe">
-    <configuration name="ArrayCreationandLogicFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.subplotsandgrids">
+    <configuration name="CleaningData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Array Computation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/Cleaning Data" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Array Computation/ArrayCreationandLogicFunctions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/Cleaning Data/CleaningData.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Dataframe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="CombineData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/Dataframe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/Combining Data" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/Dataframe/Dataframe.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/Combining Data/CombineData.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FileHandling (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="CustomizingVisualization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Array Computation/File Handling in Numpy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Visualizing Data/Customizing Visualizations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Array Computation/File Handling in Numpy/FileHandling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Visualizing Data/Customizing Visualizations/CustomizingVisualization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MatrixProductandAggregateFunctions (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PlottingCharts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,33 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/File Handling and Operations/Matrix and Aggregate functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Visualizing Data" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/File Handling and Operations/Matrix and Aggregate functions/MatrixProductandAggregateFunctions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SeriesFunctionality" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataScience" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Data Manipulation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/SeriesFunctionality.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Visualizing Data\Plotting Charts\PlottingCharts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,13 +184,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="subplotsandgrids" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScience" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Visualizing Data/SubPlots and Grids" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Visualizing Data/SubPlots and Grids/subplotsandgrids.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Dataframe" />
-        <item itemvalue="Python.SeriesFunctionality" />
-        <item itemvalue="Python.FileHandling (1)" />
-        <item itemvalue="Python.ArrayCreationandLogicFunctions" />
-        <item itemvalue="Python.MatrixProductandAggregateFunctions (1)" />
+        <item itemvalue="Python.subplotsandgrids" />
+        <item itemvalue="Python.CustomizingVisualization" />
+        <item itemvalue="Python.PlottingCharts" />
+        <item itemvalue="Python.CleaningData" />
+        <item itemvalue="Python.CombineData" />
       </list>
     </recent_temporary>
   </component>
