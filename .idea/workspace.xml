@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76655c2-9db4-4543-9bbe-590a39d20e7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Web Scraping/Scrapy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to Statistical Analysis/Data IO and Data Types/IO-DataTypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to Statistical Analysis/Measures of Dispersion/Dispersion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to Statistical Analysis/Measures of central tendency/CentralTendency.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +38,7 @@
   "keyToString": {
     "Python.ArrayCreationandLogicFunctions.executor": "Run",
     "Python.BeautifulSoup.executor": "Run",
+    "Python.CentralTendency.executor": "Run",
     "Python.ClassAndFunctions.executor": "Run",
     "Python.CleaningData.executor": "Run",
     "Python.CombineData.executor": "Run",
@@ -43,16 +46,18 @@
     "Python.CustomizingVisualization.executor": "Run",
     "Python.Dataframe.executor": "Run",
     "Python.Dictionary.executor": "Run",
+    "Python.Dispersion.executor": "Run",
     "Python.FileHandling (1).executor": "Run",
     "Python.FileHandling.executor": "Run",
     "Python.For Loop.executor": "Run",
+    "Python.IO-DataTypes.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.MatrixProductandAggregateFunctions (1).executor": "Run",
     "Python.MatrixProductandAggregateFunctions.executor": "Run",
     "Python.Numbers.executor": "Run",
     "Python.PlottingCharts.executor": "Run",
     "Python.ScrapingRottenTomatoes.executor": "Run",
-    "Python.Scrapy.executor": "Debug",
+    "Python.Scrapy.executor": "Run",
     "Python.SeriesFunctionality.executor": "Run",
     "Python.Sets.executor": "Run",
     "Python.Strings.executor": "Run",
@@ -65,15 +70,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Statistical Foundations\Introduction to Statistical Analysis\Data IO and Data Types" />
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Visualizing Data\Customizing Visualizations" />
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Visualizing Data\Plotting Charts" />
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Array Computation" />
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python" />
-      <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\File Handling and Operations\Matrix and Aggregate functions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Scrapy">
-    <configuration name="BeautifulSoup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Dispersion">
+    <configuration name="CentralTendency" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Web Scraping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Introduction to Statistical Analysis/Measures of central tendency" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Web Scraping/BeautifulSoup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to Statistical Analysis/Measures of central tendency/CentralTendency.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CustomizingVisualization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Dispersion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,11 +109,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Visualizing Data/Customizing Visualizations" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Introduction to Statistical Analysis/Measures of Dispersion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Visualizing Data/Customizing Visualizations/CustomizingVisualization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to Statistical Analysis/Measures of Dispersion/Dispersion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IO-DataTypes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScience" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Introduction to Statistical Analysis/Data IO and Data Types" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to Statistical Analysis/Data IO and Data Types/IO-DataTypes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,35 +210,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="subplotsandgrids" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataScience" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Visualizing Data/SubPlots and Grids" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Visualizing Data/SubPlots and Grids/subplotsandgrids.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Dispersion" />
+        <item itemvalue="Python.CentralTendency" />
+        <item itemvalue="Python.IO-DataTypes" />
         <item itemvalue="Python.Scrapy" />
         <item itemvalue="Python.ScrapingRottenTomatoes" />
-        <item itemvalue="Python.BeautifulSoup" />
-        <item itemvalue="Python.subplotsandgrids" />
-        <item itemvalue="Python.CustomizingVisualization" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +253,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Science Using Python/Web Scraping/Scrapy.py</url>
-          <line>41</line>
+          <line>43</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
