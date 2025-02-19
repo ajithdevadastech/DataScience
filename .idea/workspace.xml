@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76655c2-9db4-4543-9bbe-590a39d20e7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to Statistical Analysis/Data IO and Data Types/IO-DataTypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to Statistical Analysis/Measures of Dispersion/Dispersion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to Statistical Analysis/Measures of central tendency/CentralTendency.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to Statistical Analysis/Measures of position/Position.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +74,7 @@
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Dispersion">
+  <component name="RunManager" selected="Python.Position">
     <configuration name="CentralTendency" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
@@ -144,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ScrapingRottenTomatoes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Position" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Web Scraping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Introduction to Statistical Analysis/Measures of position" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Web Scraping/ScrapingRottenTomatoes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to Statistical Analysis/Measures of position/Position.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Position" />
         <item itemvalue="Python.Dispersion" />
         <item itemvalue="Python.CentralTendency" />
         <item itemvalue="Python.IO-DataTypes" />
         <item itemvalue="Python.Scrapy" />
-        <item itemvalue="Python.ScrapingRottenTomatoes" />
       </list>
     </recent_temporary>
   </component>
