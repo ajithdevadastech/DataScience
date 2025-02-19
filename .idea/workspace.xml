@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76655c2-9db4-4543-9bbe-590a39d20e7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/Cleaning Data/CleaningData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/Combining Data/CombineData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Visualizing Data/Customizing Visualizations/CustomizingVisualization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Visualizing Data/Plotting Charts/PlottingCharts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Visualizing Data/SubPlots and Grids/subplotsandgrids.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Web Scraping/BeautifulSoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Science Using Python/Web Scraping/ScrapingRottenTomatoes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,34 +33,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ArrayCreationandLogicFunctions.executor": "Run",
-    "Python.ClassAndFunctions.executor": "Run",
-    "Python.CleaningData.executor": "Run",
-    "Python.CombineData.executor": "Run",
-    "Python.Conditionals.executor": "Run",
-    "Python.CustomizingVisualization.executor": "Run",
-    "Python.Dataframe.executor": "Run",
-    "Python.Dictionary.executor": "Run",
-    "Python.FileHandling (1).executor": "Run",
-    "Python.FileHandling.executor": "Run",
-    "Python.For Loop.executor": "Run",
-    "Python.Lists.executor": "Run",
-    "Python.MatrixProductandAggregateFunctions (1).executor": "Run",
-    "Python.MatrixProductandAggregateFunctions.executor": "Run",
-    "Python.Numbers.executor": "Run",
-    "Python.PlottingCharts.executor": "Run",
-    "Python.SeriesFunctionality.executor": "Run",
-    "Python.Sets.executor": "Run",
-    "Python.Strings.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.subplotsandgrids.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ArrayCreationandLogicFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BeautifulSoup.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ClassAndFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CleaningData.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CombineData.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Conditionals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CustomizingVisualization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dataframe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileHandling (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.For Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MatrixProductandAggregateFunctions (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.MatrixProductandAggregateFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PlottingCharts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ScrapingRottenTomatoes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SeriesFunctionality.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.subplotsandgrids.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Visualizing Data\Customizing Visualizations" />
@@ -73,8 +72,8 @@
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\File Handling and Operations\Matrix and Aggregate functions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.subplotsandgrids">
-    <configuration name="CleaningData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ScrapingRottenTomatoes">
+    <configuration name="BeautifulSoup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,33 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/Cleaning Data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Web Scraping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/Cleaning Data/CleaningData.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="CombineData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataScience" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/Combining Data" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Data Manipulation/Combining Data/CombineData.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Web Scraping/BeautifulSoup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,6 +131,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Visualizing Data\Plotting Charts\PlottingCharts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ScrapingRottenTomatoes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScience" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Science Using Python/Web Scraping" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Science Using Python/Web Scraping/ScrapingRottenTomatoes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ScrapingRottenTomatoes" />
+        <item itemvalue="Python.BeautifulSoup" />
         <item itemvalue="Python.subplotsandgrids" />
         <item itemvalue="Python.CustomizingVisualization" />
         <item itemvalue="Python.PlottingCharts" />
-        <item itemvalue="Python.CleaningData" />
-        <item itemvalue="Python.CombineData" />
       </list>
     </recent_temporary>
   </component>
@@ -241,6 +240,11 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Science Using Python/Web Scraping/BeautifulSoup.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
