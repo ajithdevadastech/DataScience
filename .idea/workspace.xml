@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76655c2-9db4-4543-9bbe-590a39d20e7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/Boxplot-Visualization/boxplot-visualization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/Cross tabulation on Data/CrossTabulationOnData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/Histogram-Visualization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/LineGraph-Visualization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/PieChart-Visualization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/ScatterPlot-Visualization/ScatterPlot-Visualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/Heatmap-Visualization/Heatmap-Visualization.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +50,7 @@
     "Python.FileHandling (1).executor": "Run",
     "Python.FileHandling.executor": "Run",
     "Python.For Loop.executor": "Run",
+    "Python.Heatmap-Visualization.executor": "Run",
     "Python.Histogram-Visualization.executor": "Run",
     "Python.IO-DataTypes.executor": "Run",
     "Python.LineGraph-Visualization.executor": "Run",
@@ -88,7 +84,7 @@
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ScatterPlot-Visualization">
+  <component name="RunManager" selected="Python.Heatmap-Visualization">
     <configuration name="CrossTabulationOnData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
@@ -111,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Histogram-Visualization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Heatmap-Visualization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/Heatmap-Visualization" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/Histogram-Visualization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/Heatmap-Visualization/Heatmap-Visualization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Heatmap-Visualization" />
         <item itemvalue="Python.ScatterPlot-Visualization" />
         <item itemvalue="Python.CrossTabulationOnData" />
         <item itemvalue="Python.LineGraph-Visualization" />
         <item itemvalue="Python.boxplot-visualization" />
-        <item itemvalue="Python.Histogram-Visualization" />
       </list>
     </recent_temporary>
   </component>
