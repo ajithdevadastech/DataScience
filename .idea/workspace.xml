@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76655c2-9db4-4543-9bbe-590a39d20e7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/Heatmap-Visualization/Heatmap-Visualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Bayes Theorem/BayesTheorem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Bernoulli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Binomial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/NegativeBinomial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/TypesOfProbability/TypesOfProbabilities.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +39,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ArrayCreationandLogicFunctions.executor": "Run",
+    "Python.BayesTheorem.executor": "Run",
     "Python.BeautifulSoup.executor": "Run",
+    "Python.Bernoulli.executor": "Run",
+    "Python.Binomial.executor": "Run",
     "Python.CentralTendency.executor": "Run",
     "Python.ClassAndFunctions.executor": "Run",
     "Python.CleaningData.executor": "Run",
@@ -67,6 +74,7 @@
     "Python.SeriesFunctionality.executor": "Run",
     "Python.Sets.executor": "Run",
     "Python.Strings.executor": "Run",
+    "Python.TypesOfProbabilities.executor": "Run",
     "Python.boxplot-visualization.executor": "Run",
     "Python.main.executor": "Run",
     "Python.subplotsandgrids.executor": "Run",
@@ -77,15 +85,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Statistical Foundations\Introduction to probability\TypesOfProbability" />
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Statistical Foundations\Introduction to Statistical Analysis\Data IO and Data Types" />
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Visualizing Data\Customizing Visualizations" />
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Visualizing Data\Plotting Charts" />
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Array Computation" />
-      <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Heatmap-Visualization">
-    <configuration name="CrossTabulationOnData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.NegativeBinomial">
+    <configuration name="BayesTheorem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/Cross tabulation on Data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Bayes Theorem" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/Cross tabulation on Data/CrossTabulationOnData.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Bayes Theorem/BayesTheorem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Heatmap-Visualization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Bernoulli" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/Heatmap-Visualization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/Heatmap-Visualization/Heatmap-Visualization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Bernoulli.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LineGraph-Visualization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Binomial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/LineGraph-Visualization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Binomial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ScatterPlot-Visualization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="NegativeBinomial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/ScatterPlot-Visualization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/ScatterPlot-Visualization/ScatterPlot-Visualization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/NegativeBinomial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boxplot-visualization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TypesOfProbabilities" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/Boxplot-Visualization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/Boxplot-Visualization/boxplot-visualization.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\adevdas\PycharmProjects\DataScience\Statistical Foundations\Introduction to probability\TypesOfProbability\TypesOfProbabilities.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Heatmap-Visualization" />
-        <item itemvalue="Python.ScatterPlot-Visualization" />
-        <item itemvalue="Python.CrossTabulationOnData" />
-        <item itemvalue="Python.LineGraph-Visualization" />
-        <item itemvalue="Python.boxplot-visualization" />
+        <item itemvalue="Python.NegativeBinomial" />
+        <item itemvalue="Python.Binomial" />
+        <item itemvalue="Python.Bernoulli" />
+        <item itemvalue="Python.BayesTheorem" />
+        <item itemvalue="Python.TypesOfProbabilities" />
       </list>
     </recent_temporary>
   </component>
