@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76655c2-9db4-4543-9bbe-590a39d20e7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Geometric.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Poisson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/CentralLimitTheorem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Exponential.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Normal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Uniform.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +42,7 @@
     "Python.BeautifulSoup.executor": "Run",
     "Python.Bernoulli.executor": "Run",
     "Python.Binomial.executor": "Run",
+    "Python.CentralLimitTheorem.executor": "Run",
     "Python.CentralTendency.executor": "Run",
     "Python.ClassAndFunctions.executor": "Run",
     "Python.CleaningData.executor": "Run",
@@ -51,6 +54,7 @@
     "Python.DetectRemoveOutliers.executor": "Run",
     "Python.Dictionary.executor": "Run",
     "Python.Dispersion.executor": "Run",
+    "Python.Exponential.executor": "Run",
     "Python.FileHandling (1).executor": "Run",
     "Python.FileHandling.executor": "Run",
     "Python.For Loop.executor": "Run",
@@ -63,6 +67,7 @@
     "Python.MatrixProductandAggregateFunctions (1).executor": "Run",
     "Python.MatrixProductandAggregateFunctions.executor": "Run",
     "Python.NegativeBinomial.executor": "Run",
+    "Python.Normal.executor": "Run",
     "Python.Numbers.executor": "Run",
     "Python.PieChart-Visualization.executor": "Run",
     "Python.PlottingCharts.executor": "Run",
@@ -75,6 +80,7 @@
     "Python.Sets.executor": "Run",
     "Python.Strings.executor": "Run",
     "Python.TypesOfProbabilities.executor": "Run",
+    "Python.Uniform.executor": "Run",
     "Python.boxplot-visualization.executor": "Run",
     "Python.main.executor": "Run",
     "Python.subplotsandgrids.executor": "Run",
@@ -92,8 +98,8 @@
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Array Computation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Poisson">
-    <configuration name="Bernoulli" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.CentralLimitTheorem">
+    <configuration name="CentralLimitTheorem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Bernoulli.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/CentralLimitTheorem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Binomial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exponential" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Binomial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Exponential.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Geometric" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Normal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,29 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Geometric.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="NegativeBinomial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataScience" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/NegativeBinomial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Normal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,6 +179,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Poisson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Uniform" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScience" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/Uniform.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CentralLimitTheorem" />
+        <item itemvalue="Python.Normal" />
+        <item itemvalue="Python.Exponential" />
+        <item itemvalue="Python.Uniform" />
         <item itemvalue="Python.Poisson" />
-        <item itemvalue="Python.Geometric" />
-        <item itemvalue="Python.NegativeBinomial" />
-        <item itemvalue="Python.Binomial" />
-        <item itemvalue="Python.Bernoulli" />
       </list>
     </recent_temporary>
   </component>
