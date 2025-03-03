@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76655c2-9db4-4543-9bbe-590a39d20e7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Inferential Statistics - 1/MarginOfErrorAndConfidenceInterval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Inferential Statistics - 1/MaximumLikelihoodEstimation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Inferential Statistics - 1/Population and Sample/PopulationAndSample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Inferential Statistics - 2/HypothesisTests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +58,7 @@
     "Python.Geometric.executor": "Run",
     "Python.Heatmap-Visualization.executor": "Run",
     "Python.Histogram-Visualization.executor": "Run",
+    "Python.HypothesisTests.executor": "Run",
     "Python.IO-DataTypes.executor": "Run",
     "Python.LineGraph-Visualization.executor": "Run",
     "Python.Lists.executor": "Run",
@@ -100,29 +99,7 @@
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Array Computation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.MarginOfErrorAndConfidenceInterval">
-    <configuration name="CentralLimitTheorem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataScience" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Probability Distribution Function/CentralLimitTheorem.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.HypothesisTests">
     <configuration name="DetectRemoveOutliers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
@@ -137,6 +114,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/DetectRemoveOutliers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HypothesisTests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScience" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Inferential Statistics - 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Inferential Statistics - 2/HypothesisTests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HypothesisTests" />
         <item itemvalue="Python.MarginOfErrorAndConfidenceInterval" />
         <item itemvalue="Python.DetectRemoveOutliers" />
         <item itemvalue="Python.MaximumLikelihoodEstimation" />
         <item itemvalue="Python.PopulationAndSample" />
-        <item itemvalue="Python.CentralLimitTheorem" />
       </list>
     </recent_temporary>
   </component>
@@ -283,11 +282,6 @@
           <url>file://$PROJECT_DIR$/Statistical Foundations/Exploratory Data Analysis/DetectRemoveOutliers.py</url>
           <line>21</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Inferential Statistics - 1/MarginOfErrorAndConfidenceInterval.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
