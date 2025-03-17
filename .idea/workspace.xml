@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76655c2-9db4-4543-9bbe-590a39d20e7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Supervised Machine Learning/Regression/Regression-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Supervised Machine Learning/Regression/Regression-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised Machine Learning/Evaluating Regression Models/ERM1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised Machine Learning/Evaluating Regression Models/ERM2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,8 @@
     "Python.DetectRemoveOutliers.executor": "Run",
     "Python.Dictionary.executor": "Run",
     "Python.Dispersion.executor": "Run",
+    "Python.ERM1.executor": "Run",
+    "Python.ERM2.executor": "Run",
     "Python.Exponential.executor": "Run",
     "Python.FileHandling (1).executor": "Run",
     "Python.FileHandling.executor": "Run",
@@ -104,8 +106,8 @@
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Visualizing Data\Plotting Charts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Regression-2">
-    <configuration name="HypothesisTests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ERM2">
+    <configuration name="ERM1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,11 +116,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Inferential Statistics - 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supervised Machine Learning/Evaluating Regression Models" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistical Foundations/Introduction to probability/Inferential Statistics - 2/HypothesisTests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supervised Machine Learning/Evaluating Regression Models/ERM1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ERM2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScience" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supervised Machine Learning/Evaluating Regression Models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supervised Machine Learning/Evaluating Regression Models/ERM2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,28 +165,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supervised Machine Learning/Introduction to Machine Learning/MachineLearning-Intro.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="MachineLearning-Intro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataScience" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supervised Machine Learning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\adevdas\PycharmProjects\DataScience\Supervised Machine Learning\Introduction to Machine Learning\MachineLearning-Intro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ERM2" />
+        <item itemvalue="Python.ERM1" />
         <item itemvalue="Python.Regression-2" />
         <item itemvalue="Python.Regression-1" />
         <item itemvalue="Python.MachineLearning-Intro (1)" />
-        <item itemvalue="Python.MachineLearning-Intro" />
-        <item itemvalue="Python.HypothesisTests" />
       </list>
     </recent_temporary>
   </component>
