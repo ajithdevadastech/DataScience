@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f76655c2-9db4-4543-9bbe-590a39d20e7c" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Supervised Machine Learning/Decision Tree and Random Forest/DecisionTreeAndRandomForest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DataScience.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataScience.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised Machine Learning/Mathematical and Bayesian Models/KNN-Algorithm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +65,7 @@
     "Python.Histogram-Visualization.executor": "Run",
     "Python.HypothesisTests.executor": "Run",
     "Python.IO-DataTypes.executor": "Run",
+    "Python.KNN-Algorithm.executor": "Run",
     "Python.LineGraph-Visualization.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.MachineLearning-Intro (1).executor": "Run",
@@ -111,7 +110,7 @@
       <recent name="C:\Users\adevdas\PycharmProjects\DataScience\Data Science Using Python\Visualizing Data\Plotting Charts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.DecisionTreeAndRandomForest">
+  <component name="RunManager" selected="Python.KNN-Algorithm">
     <configuration name="Classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
@@ -200,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Regression-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="KNN-Algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supervised Machine Learning/Regression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supervised Machine Learning/Mathematical and Bayesian Models" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supervised Machine Learning/Regression/Regression-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supervised Machine Learning/Mathematical and Bayesian Models/KNN-Algorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.KNN-Algorithm" />
         <item itemvalue="Python.DecisionTreeAndRandomForest" />
         <item itemvalue="Python.Classification" />
         <item itemvalue="Python.ERM2" />
         <item itemvalue="Python.ERM1" />
-        <item itemvalue="Python.Regression-2" />
       </list>
     </recent_temporary>
   </component>
@@ -322,6 +321,16 @@
           <url>file://$PROJECT_DIR$/Supervised Machine Learning/Decision Tree and Random Forest/DecisionTreeAndRandomForest.py</url>
           <line>121</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Supervised Machine Learning/Mathematical and Bayesian Models/KNN-Algorithm.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Supervised Machine Learning/Mathematical and Bayesian Models/KNN-Algorithm.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
